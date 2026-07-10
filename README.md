@@ -27,6 +27,6 @@ BallGame/
 │   │   └── RotateCoin.cs    # コインのスクリプト
 │   ├── Scenes/           # ゲームのステージファイル
 │   └── Material/         # Material関連のアセット
-├── Build/                # Windows向け実行ファイル（ここからゲームをプレイできます）
+├── Build/             # Windows向け実行ファイル（ここからゲームをプレイできます）
 └── README.md
 ```
