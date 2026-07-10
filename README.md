@@ -18,7 +18,7 @@ Unity・C#を用いて作成した3Dのボールゲームです。
 - C#
 
 ## Folder Structure
-'''text
+```text
 BallGame/
 ├── Assets/
 │   ├── Scripts/
@@ -29,4 +29,4 @@ BallGame/
 │   └── Material/         # Material関連のアセット
 ├── Build/                # Windows向け実行ファイル（ここからゲームをプレイできます）
 └── README.md
-'''
+```
