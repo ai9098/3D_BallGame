@@ -1,5 +1,5 @@
 # 3D_BallGame
-Unity・C#・JavaScriptを用いて作成した3Dのボールゲームです。
+Unity・C#を用いて作成した3Dのボールゲームです。
 移動やジャンプでコインを集めてクリアフラグを出し、フラグに触れるとステージクリアです。
 
 ![demo](./Image/BallGame.gif)
