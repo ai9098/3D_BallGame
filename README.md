@@ -18,8 +18,13 @@ Unity・C#・JavaScriptを用いて作成した3Dのボールゲームです。
 - C#
 
 ## Folder Structure
-```text
-Maze/
-├── maze.c++
-└── maze.gif
-```
+BallGame/
+├── Assets/
+│   ├── Scripts/
+│   │   ├── FollowPlayer.cs  # カメラのスクリプト
+│   │   ├── PlayerManager.cs # プレイヤーのスクリプト
+│   │   └── RotateCoin.cs    # コインのスクリプト
+│   ├── Scenes/           # ゲームのステージファイル
+│   └── Material/         # Material関連のアセット
+├── Build/                # Windows向け実行ファイル（ここからゲームをプレイできます）
+└── README.md
